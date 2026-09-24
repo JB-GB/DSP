@@ -1,6 +1,6 @@
 # DSP — RTL-SDR + GNU Radio con extensión biomédica/telecom
 
-Proyecto académico-portafolio (Procesamiento Digital de Señales, 7º semestre, UANL).
+Proyecto académico-portafolio (Procesamiento Digital de Señales).
 Captura de FM comercial, banco de filtros de 3 bandas, reinterpretación como tele-auscultación,
 cuantificación de SNR por banda y monitoreo de espectro MICS/ISM (EMC).
 
