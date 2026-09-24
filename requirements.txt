@@ -1,0 +1,13 @@
+# Análisis / post-procesamiento (instalables con pip)
+numpy>=1.26        # FFT, álgebra de señales
+scipy>=1.11        # scipy.signal: diseño de filtros (butter, cheby1, ellip, bessel), freqz, spectrogram
+matplotlib>=3.8    # gráficas y sliders (matplotlib.widgets)
+pyrtlsdr>=0.3.0    # acceso al RTL-SDR desde Python (Fase 5); requiere librtlsdr/driver WinUSB
+soundfile>=0.12    # lectura/escritura de WAV para /results/audio_samples
+
+# Opcionales (interfaz interactiva / trabajo futuro)
+# PyQt5>=5.15
+# streamlit>=1.30
+# paho-mqtt>=2.0
+
+# NOTA: GNU Radio (gnuradio, gr-osmosdr) NO se instala con pip. Ver environment.md
