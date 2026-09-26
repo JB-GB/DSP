@@ -1,2 +1,8 @@
 prompt-claude-code-proyecto-dsp.md
 CLAUDE.md
+
+# Salidas voluminosas de flowgraphs/capturas (regenerables)
+*.cfile
+*.f32
+flowgraphs/*.wav
+__pycache__/
